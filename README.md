@@ -2,6 +2,9 @@
 
 An ASP.NET Core MVC web application that compares different password hashing algorithms (SHA-256, SHA-512, BCrypt, PBKDF2, and Argon2) with detailed explanations, advantages, disadvantages, and code examples.
 
+<img width="1920" height="1080" alt="Screenshot 2025-11-01 003636" src="https://github.com/user-attachments/assets/4fb24e39-47fe-4961-a35b-1e0529395a6f" />
+
+
 ## Features
 
 - **Interactive Comparison**: Enter any password and see how different algorithms hash it
@@ -70,6 +73,7 @@ dotnet run
 - **Use BCrypt or Argon2 for production applications** - They are specifically designed for password hashing
 - **Always use proper password storage practices** in real applications
 - Passwords entered in this tool are not stored anywhere
+<img width="1920" height="1080" alt="Screenshot 2025-11-01 003715" src="https://github.com/user-attachments/assets/2bc2a25c-88d5-4daf-aebd-4e84430b17eb" />
 
 ## Recommendations
 
